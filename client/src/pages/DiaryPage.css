@@ -1,0 +1,79 @@
+.diary-container {
+  min-height: 100vh;
+  padding: 40px 20px;
+  background: url("https://www.transparenttextures.com/patterns/paper-fibers.png");
+  background-color: #fdf6e3;
+  font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.diary-title {
+  text-align: center;
+  font-family: 'Caveat', cursive;
+  font-size: 3rem;
+  margin-bottom: 30px;
+}
+
+.input-field,
+.textarea-field {
+  display: block;
+  width: 100%;
+  max-width: 600px;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: #fffbe6;
+}
+
+.textarea-field {
+  height: 120px;
+  resize: none;
+}
+
+.add-button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 24px;
+  background-color: #ffa94d;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.logout-container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.logout-button {
+  padding: 10px 20px;
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.view-notes-button {
+  margin-top: 10px;
+  padding: 10px 16px;
+  background-color: #4caf50;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.view-notes-button:hover {
+  background-color: #45a049;
+}
