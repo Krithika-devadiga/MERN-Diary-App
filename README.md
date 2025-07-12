@@ -45,7 +45,6 @@ A secure and simple diary web app where users can register, log in, and write pr
 
 ### 1️⃣ Clone the Repository
 
-```bash
 git clone https://github.com/your-username/MERN-Diary-App.git
 cd MERN-Diary-App
 
