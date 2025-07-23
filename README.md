@@ -58,8 +58,7 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 PORT=5000
 
-Start the backend:
-node server.js
+
 
 3️⃣ Setup Frontend
 cd ../client
