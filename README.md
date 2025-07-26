@@ -62,4 +62,6 @@ Start the backend:
 node server.js
 
 3️⃣ Setup Frontend
-
+cd ../client
+npm install
+npm start
