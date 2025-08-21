@@ -1,6 +1,6 @@
 # 📔 Personal Diary App (MERN Stack)
 
-A secure and simple diary web app where users can register, log in, and write private notes — just like a personal diary. All notes are stored in a secure MongoDB database and are only visible to the logged-in user.
+A secure and simple diary web app where users can register, log in, and write private notes — just like a personal diary. All notes are stored in a secure MongoDB database and are only visible to the logged-in 
 
 ---
 
